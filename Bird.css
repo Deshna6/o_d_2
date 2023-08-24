@@ -1,0 +1,27 @@
+#btn_dark
+{
+    background-color: black;
+    color: white;
+    float: right;
+}
+
+#status
+{
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+
+#number
+{
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+ 
